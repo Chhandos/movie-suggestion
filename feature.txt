@@ -1,0 +1,4 @@
+ 2. Emotion-Based Recommendations (GenAI + NLP)
+Let users enter a mood or sentence like “I feel sad but want inspiration.”
+
+Use OpenAI or sentiment models to map the mood to genres (e.g., sad → drama, happy → comedy) and recommend accordingly.
